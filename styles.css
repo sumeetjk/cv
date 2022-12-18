@@ -12,7 +12,7 @@ body{
 	background: linear-gradient(to right, #3525af, #9153c9);
 }
 
-.text{
+a {
 	text-decoration: none;
 	color: #fff;
 }
@@ -77,7 +77,6 @@ body{
 
 .left .text{
 	color: #9153c9;
-	text-transform: uppercase;
 	font-size: 13px;
 }
 
